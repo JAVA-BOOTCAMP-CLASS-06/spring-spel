@@ -1,0 +1,7 @@
+spring/AppConfig.class
+beans/DBBean.class
+app/App.class
+beans/Numeric.class
+beans/Sample.class
+beans/Book.class
+beans/Author.class
